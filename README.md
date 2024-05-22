@@ -15,7 +15,7 @@
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/fd4ac3d2-ccce-4794-8b80-5241832a45be">](https://github.com/charliethomasct82/PowerBi_ElectricVehicleSummary)
 
-# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/b5856e12-9d8a-4785-ba13-a968f058afef">](https://github.com/charliethomasct82/PowerBI_Cricket_IPL_DashBoard)
+
 
 
 
