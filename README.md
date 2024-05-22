@@ -8,7 +8,7 @@
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/c5896ddb-663c-4d1d-a462-79dd95d89b5f">](https://github.com/charliethomasct82/PowerBI_Financial_Complain)
 
-# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/fd4ac3d2-ccce-4794-8b80-5241832a45be">](https://github.com/charliethomasct82/PowerBi_ElectricVehicleSummar)
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/fd4ac3d2-ccce-4794-8b80-5241832a45be">](https://github.com/charliethomasct82/PowerBi_ElectricVehicleSummary)
 
 
 
