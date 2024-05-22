@@ -6,6 +6,8 @@
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/f3083911-4ef9-4d4e-8d70-62d225961c93">](https://github.com/charliethomasct82/Patient-Wait-List-Analysis)
 
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/c5896ddb-663c-4d1d-a462-79dd95d89b5f">](https://github.com/charliethomasct82/PowerBI_Financial_Complain)
+
 
 
 
