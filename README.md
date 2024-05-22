@@ -15,6 +15,7 @@
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/fd4ac3d2-ccce-4794-8b80-5241832a45be">](https://github.com/charliethomasct82/PowerBi_ElectricVehicleSummary)
 
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/d64edd7d-c356-4023-a987-932d307ddffa">](https://github.com/charliethomasct82/E-Commerce_Sales_DashBoard)
 
 
 
