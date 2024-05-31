@@ -1,7 +1,11 @@
 # PowerBI-Projects                 [Back to main page](https://charliethomasct82.github.io/Website/)
 # Please Click on the images to go to project files.   
 
-# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/93b46b7f-8f9c-4655-b921-d4dd91d176c5">](https://github.com/charliethomasct82/bank_loan_analysis)
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/2a3d1899-4237-478e-9b0c-c9307df32660">](https://github.com/charliethomasct82/bank_loan_analysis)
+
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/862969b7-5305-4525-ac91-0322784b196d">](https://github.com/charliethomasct82/Addidas-Sales-Analysis)
+
+# [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/abb1bee4-55c0-4e7c-8f78-b6f2e2694dd9">](https://github.com/charliethomasct82/Hollywood_Movie_performance)
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/716742c1-c1aa-4c83-b5c4-913d2686e059">](https://github.com/charliethomasct82/HR-Analytics-DashBoard)
 
