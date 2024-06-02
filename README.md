@@ -3,7 +3,7 @@
 
 # [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/24e696b6-a581-41ea-801a-67b7d3cc3a8b">](https://github.com/charliethomasct82/bank_loan_analysis)
 
-# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/9ae4b588-40bf-4e0d-bdca-9c58aeb86830">](https://github.com/charliethomasct82/bank_loan_analysis)
+# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/9ae4b588-40bf-4e0d-bdca-9c58aeb86830">](https://github.com/CharlieThomasCTG/Amazon-Sales-Analysis)
 
 # [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/8cd9a9d8-001a-4582-991c-759eb37617dd">](https://github.com/charliethomasct82/Addidas-Sales-Analysis)
 
