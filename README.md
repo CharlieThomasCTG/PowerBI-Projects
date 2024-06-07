@@ -5,9 +5,9 @@
 
 # [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/9ae4b588-40bf-4e0d-bdca-9c58aeb86830">](https://github.com/CharlieThomasCTG/Amazon-Sales-Analysis)
 
-# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/8cd9a9d8-001a-4582-991c-759eb37617dd">](https://github.com/charliethomasct82/Addidas-Sales-Analysis)
+# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/8cd9a9d8-001a-4582-991c-759eb37617dd">](https://github.com/CharlieThomasCTG/Addidas-Sales-Analysis)
 
-# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/dae54688-70d6-4b2b-be98-7f0c3df9c340">](https://github.com/charliethomasct82/Hollywood_Movie_performance)
+# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/dae54688-70d6-4b2b-be98-7f0c3df9c340">](https://github.com/CharlieThomasCTG/HollyWoodMoviePerformance)
 
 # [<img src="https://github.com/charliethomasct82/PowerBI-Projects/assets/93368865/716742c1-c1aa-4c83-b5c4-913d2686e059">](https://github.com/charliethomasct82/HR-Analytics-DashBoard)
 
