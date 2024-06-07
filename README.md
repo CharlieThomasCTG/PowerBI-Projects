@@ -1,7 +1,7 @@
 # PowerBI-Projects                 [Back to main page](https://charliethomasct82.github.io/Website/)
 # Please Click on the images to go to project files.   
 
-# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/24e696b6-a581-41ea-801a-67b7d3cc3a8b">](https://github.com/charliethomasct82/bank_loan_analysis)
+# [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/6956f587-455c-464c-ba5a-dcf86e59fd89">](https://github.com/charliethomasct82/bank_loan_analysis)
 
 # [<img src="https://github.com/CharlieThomasCTG/PowerBI-Projects/assets/93368865/9ae4b588-40bf-4e0d-bdca-9c58aeb86830">](https://github.com/CharlieThomasCTG/Amazon-Sales-Analysis)
 
